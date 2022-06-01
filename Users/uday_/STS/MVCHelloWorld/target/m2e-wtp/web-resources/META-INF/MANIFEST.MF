@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: uday_
+Build-Jdk: 17.0.2
+Implementation-Title: HelloWorldMVC Maven Webapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.prgs.telco
+Implementation-URL: http://www.example.com
+Created-By: Maven Integration for Eclipse
+
